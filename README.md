@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Jacky Jufonda 👋
+- 🌱 I’m currently learning about Software Engineering
+- 👀 I'm interested in Software Engineer
+- 📫 How to reach me
 
 <!--
 **jackyjufonda/JackyJufonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
