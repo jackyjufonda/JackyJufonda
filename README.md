@@ -1,6 +1,6 @@
 ### Hi there, I'm Jacky Jufonda 👋
-- 🌱 I’m currently learning about Software Engineering
-- 👀 I'm interested in Software Engineer
+- 🌱 I’m currently learning about Data Science
+- 👀 I'm interested in Data Science & Web3
 - 📫 How to reach me
 
 <!--
